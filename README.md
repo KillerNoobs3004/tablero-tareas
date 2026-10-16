@@ -24,3 +24,6 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 3. Presiona **X** para borrarla.
 
 Repositorio: [tablero-tareas](https://github.com/KillerNoobs3004/tablero-tareas)
+
+Mi primera práctica de Git en la sesión 2.
+Soy Martin.
